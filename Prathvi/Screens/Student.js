@@ -56,7 +56,6 @@ const mystyle = StyleSheet.create({
   maincon: {
     width: '100%',
     minHeight: '100%',
-    // paddingVertical:20,
     backgroundColor: '#ebedee',
   },
   card: {
@@ -89,7 +88,7 @@ const mystyle = StyleSheet.create({
     fontSize: 30,
     color: 'black',
     textAlign: 'center',
-    paddingTop: 20,
+    paddingTop:30
   },
   imgcon: {
     padding: 10,
@@ -114,6 +113,7 @@ const mystyle = StyleSheet.create({
   },
   bg: {
     height: '100%',
+    paddingVertical:80
   },
 });
 export default Student;

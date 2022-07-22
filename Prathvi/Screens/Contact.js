@@ -99,6 +99,7 @@ const mystyle = StyleSheet.create({
     height: '100%',
     paddingHorizontal: 30,
     backgroundColor: '#fff',
+    paddingVertical:80
   },
   mainheader: {
     fontSize: 20,
@@ -114,6 +115,8 @@ const mystyle = StyleSheet.create({
     lineHeight: 20,
   },
   inputstyle: {
+  
+    color:"black",
     borderWidth: 1,
     borderColor: 'rgba(0,0,0,0.3)',
     paddingHorizontal: 15,

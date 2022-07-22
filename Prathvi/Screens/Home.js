@@ -28,6 +28,7 @@ const Home = () => {
 };
 const Mystyle = StyleSheet.create({
   head: {
+    color:"#000000",
     fontSize: 20,
     textTransform: 'capitalize',
     marginTop: 20,
@@ -37,6 +38,7 @@ const Mystyle = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     paddingHorizontal: 20,
+    paddingVertical:80
   },
   img: {
     height: undefined,

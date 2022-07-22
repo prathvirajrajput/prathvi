@@ -33,6 +33,7 @@ const Mystyle = StyleSheet.create({
   },
   maincon: {
     paddingHorizontal: 20,
+    paddingVertical:70
   },
   coursecon: {
     marginTop: 10,

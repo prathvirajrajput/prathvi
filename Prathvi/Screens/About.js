@@ -45,6 +45,7 @@ function About () {
     aboutcon:{
       display:"flex",
       alignItems:"center",
+      paddingVertical:90
     },
     img:{
       height:150,
@@ -56,7 +57,7 @@ function About () {
       fontSize:20,
       color:"black",
       textTransform:"uppercase",
-      marginTop:10,
+      marginTop:40,
       marginBottom:5,
     },
     para:{
@@ -67,7 +68,8 @@ function About () {
     menucon:{
       width:"100%",
       flexDirection:"row",
-      justifyContent:"space-evenly"
+      justifyContent:"space-evenly",
+      paddingVertical:35
     },
   subhead:{
     color:"#f8f8ff",
